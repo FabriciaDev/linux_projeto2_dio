@@ -1,4 +1,4 @@
-# Projeto Servidor Apache
+# Projeto Script para criação de Servidor Apache
 
 Este projeto é feito em um servidor ubuntu. Como o outro projeto, (<https://github.com/FabriciaDev/linux_projeto1_dio>), foi feito para o curso de Linux Essencials da DIO.
 
